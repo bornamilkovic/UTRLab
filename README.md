@@ -1,5 +1,5 @@
 # UTRLab
-Code solutions from laboratory exercises in Introduction to Theoretical Computer Science at FER, University of Zagreb.
+Code solutions from laboratory exercises in Introduction to Theoretical Computer Science course at FER, University of Zagreb.
 
 Lab 1 (SimEnka):
 
